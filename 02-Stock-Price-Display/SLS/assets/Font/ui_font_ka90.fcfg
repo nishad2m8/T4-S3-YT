@@ -1,0 +1,16 @@
+{
+  "codename": "ka90",
+  "ttf_path": "/assets/Font/Kanit-Bold.ttf",
+  "bin_path": "/assets/Font/ui_font_ka90.bin",
+  "c_path": "/assets/Font/ui_font_ka90.c",
+  "cfg_path": "/assets/Font/ui_font_ka90.fcfg",
+  "size": 90,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,16 @@
+{
+  "codename": "Kanit25",
+  "ttf_path": "/assets/Font/Kanit-SemiBold.ttf",
+  "bin_path": "/assets/Font/ui_font_Kanit25.bin",
+  "c_path": "/assets/Font/ui_font_Kanit25.c",
+  "cfg_path": "/assets/Font/ui_font_Kanit25.fcfg",
+  "size": 25,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
